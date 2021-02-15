@@ -8,6 +8,5 @@ My name is Jack and I like to code, especially in Kotlin.
 - 💻 [computub.com](https://computub.com), social media (ceased activity).
 - 🤖 [Byte](https://github.com/jackdevey/byte), a Discord bot made in JavaScript.
 
-## Check my statistics
 [![My github stats](https://github-readme-stats.vercel.app/api?username=jackdevey)](https://github.com/anuraghazra/github-readme-stats)
 
