@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Jack and I like to code, especially in Kotlin.
 
-## My Projects
+## My projects
 - 📱 [Buddha Quotes](https://github.com/bandev/buddha-quotes), an Android app made in Kotlin.
 - 📱 [Labyrinth](https://github.com/bandev/labyrinth), an Android app made in Kotlin.
 - 💻 [bandev.uk](https://bandev.uk), developer organisation website.
