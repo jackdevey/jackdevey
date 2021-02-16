@@ -9,6 +9,10 @@ My name is Jack and I like to code, especially in Kotlin.
 - 🤖 [Byte](https://github.com/jackdevey/byte), a Discord bot made in JavaScript.
 - 🚨 [Govee CLI](https://github.com/jackdevey/govee-cli), a Govee CLI made in Python.
 
-## Check my statistics
+## My stats
 [![My github stats](https://github-readme-stats.vercel.app/api?username=jackdevey)](https://github.com/anuraghazra/github-readme-stats)
+
+## My languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackdevey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
