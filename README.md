@@ -1,3 +1,5 @@
+<link rel="icon" type="image/png" href="favicon.png">
+
 ## Hi there 👋
 My name is Jack and I like to code, especially in Kotlin.
 
