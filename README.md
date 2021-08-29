@@ -18,6 +18,6 @@ My name is Jack and I like to code, especially in Kotlin.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackdevey)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Identity keys
-- 🔑 [5BEA7F1F90E1BA66](http://keys.gnupg.net/pks/lookup?op=vindex&fingerprint=on&search=0x5BEA7F1F90E1BA66), my main GPG key.
+- 🔑 [34830C50CDC43627FD3F94181D946229206316C9](https://keys.openpgp.org/search?q=jack%40bandev.uk), my GPG key.
 
 
