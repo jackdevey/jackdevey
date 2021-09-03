@@ -12,7 +12,7 @@ My name is Jack and I like to code, especially in Kotlin.
 - 👩‍💻 [CodeView](https://github.com/jackdevey/codeview), a CodeView library made in Kotlin.
 
 ## My stats
-[![My github stats](https://github-readme-stats-one-bice.vercel.app/api?username=jackdevey&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats-one-bice.vercel.app/api?username=jackdevey&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My languages
 ![Top Langs](https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api/top-langs/?username=jackdevey&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&layout=compact&langs_count=10)
