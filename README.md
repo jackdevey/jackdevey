@@ -12,10 +12,10 @@ My name is Jack and I like to code, especially in Kotlin.
 - 👩‍💻 [CodeView](https://github.com/jackdevey/codeview), a CodeView library made in Kotlin.
 
 ## My stats
-[![My github stats](https://github-readme-stats.vercel.app/api?username=jackdevey)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats-one-bice.vercel.app/api?username=jackdevey&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackdevey)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api/top-langs/?username=jackdevey&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&layout=compact&langs_count=10)
 
 ## Identity keys
 - 🔑 [34830C50CDC43627FD3F94181D946229206316C9](https://keys.openpgp.org/search?q=jack%40bandev.uk), my GPG key.
