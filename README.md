@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Jack and I like to code, especially in Kotlin.
+My name is Jack and I like to code.
 
 ## My projects
 - 📱 [Buddha Quotes](https://github.com/bandev/buddha-quotes), an Android app made in Kotlin.
