@@ -4,11 +4,11 @@ My name is Jack and I like to code.
 ## My projects
 - 📺 [Boards](https://github.com/jackdevey/boards), a train departure board CLI.
 - 🚅 [LDBWS-Client](https://github.com/jackdevey/ldbws-client), a client library for the LDBWS API.
+- 🚨 [Lux](https://github.com/jackdevey/lux), a Govee CLI made in Go.
 - 🔥 [RepoRank](https://github.com/jackdevey/reporank), a repository ranking website.
 - 📱 [Buddha Quotes](https://github.com/bandev/buddha-quotes), an Android app made in Kotlin.
 - 💻 [bandev.uk](https://bandev.uk), developer organisation website.
 - 🤖 [Notify](https://github.com/bandev/notify), a Discord bot made in Kotlin.
-- 🚨 [Lux](https://github.com/bandev/lux), a Govee CLI made in Go.
 - 👩‍💻 [CodeView](https://github.com/jackdevey/codeview), a CodeView library made in Kotlin.
 
 ## My stats
