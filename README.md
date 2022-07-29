@@ -16,4 +16,5 @@ My name is Jack and I like to code.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackdevey&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Identity Keys
-- 🔑 [My GPG Key](https://keys.openpgp.org/search?q=jack%40bandev.uk)
+- 🔑 [My GPG Key (jack@jw3.uk)](https://keys.openpgp.org/search?q=jack%40jw3.uk)
+- 🗝 [Old GPG Key (jack@bandev.uk)](https://keys.openpgp.org/search?q=jack%40bandev.uk)
