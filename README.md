@@ -1,4 +1,4 @@
-## Hi there 👋
+## `print('Hi there 👋')`
 - 🙋‍♂️ My name is Jack and I like to code
 - 🎓 I'm currently a BSc (Hons) Computer Science student
 - 📈 Aside from CS, I also like maths & trains
