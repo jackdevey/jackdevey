@@ -1,6 +1,7 @@
 ## `print('Hi there 👋')`
 - 🙋‍♂️ My name is Jack and I like to code
 - 🎓 I'm currently a BSc (Hons) Computer Science student
+- 💼 I'm also a Software Engineer at [Atlantic Software](https://atlanticsoftware.co.uk)
 - 📈 Aside from CS, I also like maths & trains
 
 ### `myProjects()`
@@ -14,7 +15,7 @@
 - 📆 [Countdown](https://github.com/jackdevey/countdown), an iOS countdown widget
 
 ### `contributions()`
-I have worked on many projects for [BanDev](https://github.com/bandev) including
+I also produced many projects with [BanDev](https://github.com/bandev) including
 - 📱 [Buddha Quotes](https://github.com/bandev/buddha-quotes), an Android app made in Kotlin
 - 💻 [bandev.uk](https://bandev.uk), developer organisation website
 - 🤖 [Notify](https://github.com/bandev/notify), a Discord bot made in Kotlin
