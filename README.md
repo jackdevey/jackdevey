@@ -19,10 +19,6 @@ I have worked on many projects for [BanDev](https://github.com/bandev) including
 - 💻 [bandev.uk](https://bandev.uk), developer organisation website
 - 🤖 [Notify](https://github.com/bandev/notify), a Discord bot made in Kotlin
 
-### `myStats()`
-[![My github stats](https://github-readme-stats-one-bice.vercel.app/api?username=jackdevey&show_icons=true&include_all_commits=true&theme=github_dark&count_private=true&role=OWNER,ORGANIZATION_MEMBER)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackdevey&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### `socialLinks()`
 - 📎 [GitHub](https://github.com/jackdevey/)
 - 📎 [LinkedIn](https://linkedin.com/in/jackdevey/)
