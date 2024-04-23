@@ -15,7 +15,7 @@
 - 📆 [Countdown](https://github.com/jackdevey/countdown), an iOS countdown widget
 
 ### `contributions()`
-I also produced many projects with [BanDev](https://github.com/bandev) including
+I have also worked on many projects for [BanDev](https://github.com/bandev) including
 - 📱 [Buddha Quotes](https://github.com/bandev/buddha-quotes), an Android app made in Kotlin
 - 💻 [bandev.uk](https://bandev.uk), developer organisation website
 - 🤖 [Notify](https://github.com/bandev/notify), a Discord bot made in Kotlin
