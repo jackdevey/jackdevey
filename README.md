@@ -23,7 +23,6 @@ I have also worked on many projects for [BanDev](https://github.com/bandev) incl
 ### `socialLinks()`
 - 📎 [GitHub](https://github.com/jackdevey/)
 - 📎 [LinkedIn](https://linkedin.com/in/jackdevey/)
-- 📎 [My Blog](https://blog.jw3.uk/)
 
 ### `identityKeys()`
 - 🔑 [GPG Key (jack@jw3.uk)](https://keys.openpgp.org/search?q=jack%40jw3.uk)
