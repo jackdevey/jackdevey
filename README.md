@@ -1,7 +1,6 @@
 ## `print('Hi there 👋')`
 - 🙋‍♂️ My name is Jack and I like to code
 - 🎓 I'm currently a BSc (Hons) Computer Science student
-- 💼 I'm also a Research Assistant at [Birmingham City University](https://bcu.ac.uk/computing)
 
 ### `publications()`
 
