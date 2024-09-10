@@ -1,6 +1,7 @@
 ### `publications()`
 
 - **Devey J**, Gill PS, Allen G, Shahra E, Idrissi M. Network-Centric Formation Control and Ad Hoc Communication with Localisation Analysis in Multi-UAV Systems. Machines. 2024; 12(8):550. [https://doi.org/10.3390/machines12080550](https://doi.org/10.3390/machines12080550)
+- **Devey J**, Shahra E, Hao W, Mi D, Aneiba A, Idrissi M. Design and Simulation of a Novel Leader-Follower UAV Cluster and Formation Control Network. 2024 International Joint Conference on Neural Networks (IJCNN). Yokohama, Japan. 2024; pp. 1-6. [https://doi.org/10.1109/IJCNN60899.2024.10650159](https://doi.org/10.1109/IJCNN60899.2024.10650159)
 
 ### `myProjects()`
 - [Aside](https://github.com/jackdevey/aside), a macOS savings manager
