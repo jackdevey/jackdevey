@@ -1,5 +1,3 @@
-{% include schema.html %}
-
 ### `publications()`
 
 - **Devey J**, Gill PS, Allen G, Shahra E, Idrissi M. Network-Centric Formation Control and Ad Hoc Communication with Localisation Analysis in Multi-UAV Systems. Machines. 2024; 12(8):550. [https://doi.org/10.3390/machines12080550](https://doi.org/10.3390/machines12080550)
