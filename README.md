@@ -1,3 +1,25 @@
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Jack Devey",
+    "jobTitle": "Research Assistant",
+    "sameAs": [
+      "https://linkedin.com/in/jackdevey",
+      "https://scholar.google.com/citations?user=qlmvj88AAAAJ",
+      "https://orcid.org/0009-0002-9513-2817"
+    ],
+    "url": "https://jw3.uk",
+    "image": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=qlmvj88AAAAJ",
+    "knowsAbout": ["Aerial Robotics", "Computer Vision","Machine Learning"],
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Birmingham City University",
+      "url": "https://bcu.ac.uk"
+    }
+  }
+</script>
+
 ### `publications()`
 
 - **Devey J**, Gill PS, Allen G, Shahra E, Idrissi M. Network-Centric Formation Control and Ad Hoc Communication with Localisation Analysis in Multi-UAV Systems. Machines. 2024; 12(8):550. [https://doi.org/10.3390/machines12080550](https://doi.org/10.3390/machines12080550)
