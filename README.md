@@ -14,7 +14,6 @@ Research Assistant in Robotics at [Birmingham City University](https://www.bcu.a
 - [Lux](https://github.com/jackdevey/lux), a Govee CLI made in Go
 - [CodeView](https://github.com/jackdevey/codeview), a CodeView library made in Kotlin
 - [Buddha Quotes](https://github.com/bandev/buddha-quotes), an Android app made in Kotlin
-- [bandev.uk](https://bandev.uk), a developer organisation website
 - [Notify](https://github.com/bandev/notify), a Discord bot made in Kotlin
 
 ## Profiles
