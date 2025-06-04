@@ -1,5 +1,5 @@
 # Jack Devey
-Research Assistant in Robotics at [Birmingham City University](https://www.bcu.ac.uk/subject-areas/computing)
+Research Assistant in Robotics and Computer Vision at [Birmingham City University](https://www.bcu.ac.uk/subject-areas/computing)
 
 ## Publications
 
