@@ -2,7 +2,7 @@
 Research Assistant in Robotics and Computer Vision at [Birmingham City University](https://www.bcu.ac.uk/subject-areas/computing)
 
 ## Publications
-- Gill PS, **Devey J**, M Idrissi, H Mahmoud, S Parvez, R Bhana. Developing a Smart Wireless Sensor Network for Waste Management in Cities. Advances on Intelligent Computing and Data Science II. 2024; pp 129–140. [https://doi.org/10.1007/978-3-031-91351-8_12](https://doi.org/10.1007/978-3-031-91351-8_12)
+- Gill PS, **Devey J**, M Idrissi, H Mahmoud, S Parvez, R Bhana. Developing a Smart Wireless Sensor Network for Waste Management in Cities. Advances on Intelligent Computing and Data Science II. 2025; pp 129–140. [https://doi.org/10.1007/978-3-031-91351-8_12](https://doi.org/10.1007/978-3-031-91351-8_12)
 - **Devey J**, Gill PS, Allen G, Shahra E, Idrissi M. Network-Centric Formation Control and Ad Hoc Communication with Localisation Analysis in Multi-UAV Systems. Machines. 2024; 12(8):550. [https://doi.org/10.3390/machines12080550](https://doi.org/10.3390/machines12080550)
 - **Devey J**, Shahra E, Hao W, Mi D, Aneiba A, Idrissi M. Design and Simulation of a Novel Leader-Follower UAV Cluster and Formation Control Network. 2024 International Joint Conference on Neural Networks (IJCNN). Yokohama, Japan. 2024; pp. 1-6. [https://doi.org/10.1109/IJCNN60899.2024.10650159](https://doi.org/10.1109/IJCNN60899.2024.10650159)
 
