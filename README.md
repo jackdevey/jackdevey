@@ -1,5 +1,5 @@
 # Jack Devey
-Research Assistant in Robotics and Computer Vision at [Birmingham City University](https://www.bcu.ac.uk/subject-areas/computing)
+Postgraduate Researcher at [BCRRE, University of Birmingham](https://www.birmingham.ac.uk/railway)
 
 ## Recent Publications
 <!-- PUBLICATIONS:START -->
@@ -12,20 +12,10 @@ Research Assistant in Robotics and Computer Vision at [Birmingham City Universit
 [Full list on ORCID](https://orcid.org/0009-0002-9513-2817)
 <!-- PUBLICATIONS:END -->
 
-## Open Source Projects
-- [Aside](https://github.com/jackdevey/aside), a macOS savings manager
-- [Deadlines](https://github.com/jackdevey/deadlines), an iOS deadline manager
-- [Boards](https://github.com/jackdevey/boards), a train departure board CLI
-- [LDBWS-Client](https://github.com/jackdevey/ldbws-client), a client library for the LDBWS API
-- [Lux](https://github.com/jackdevey/lux), a Govee CLI made in Go
-- [CodeView](https://github.com/jackdevey/codeview), a CodeView library made in Kotlin
-- [Buddha Quotes](https://github.com/bandev/buddha-quotes), an Android app made in Kotlin
-- [Notify](https://github.com/bandev/notify), a Discord bot made in Kotlin
-
 ## Profiles
-- [GitHub](https://github.com/jackdevey/)
-- [LinkedIn](https://linkedin.com/in/jackdevey/)
 - [ORCID](https://orcid.org/0009-0002-9513-2817)
-- [SciProfiles](https://sciprofiles.com/profile/jack-devey)
+- [UoB Research Portal](https://research.birmingham.ac.uk/en/persons/jack-devey/)
 - [Google Scholar](https://scholar.google.com/citations?user=qlmvj88AAAAJ)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=58752639500)
+- [GitHub](https://github.com/jackdevey/)
+- [LinkedIn](https://linkedin.com/in/jackdevey/)
