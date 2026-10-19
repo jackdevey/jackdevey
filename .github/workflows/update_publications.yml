@@ -1,0 +1,39 @@
+name: Update publications
+
+on:
+  schedule:
+    - cron: "0 12 * * 0"   # Sundays ~midday UK
+  workflow_dispatch:       # run manually from the Actions tab
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate publications section
+        run: python scripts/update_publications.py
+        env:
+          ORCID_ID: 0009-0002-9513-2817
+          HIGHLIGHT_NAME: Devey J
+          MAX_ENTRIES: 5
+
+      - name: Open PR if README changed
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: bot/update-publications
+          delete-branch: true
+          add-paths: README.md
+          commit-message: Update publications from ORCID
+          title: Update publications from ORCID
+          body: |
+            Automated update from [ORCID](https://orcid.org/0009-0002-9513-2817).
+            Check author names, venues and page numbers before merging.
