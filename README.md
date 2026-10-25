@@ -1,5 +1,5 @@
 # Jack Devey
-PhD Researcher at [BCRRE, University of Birmingham](https://www.birmingham.ac.uk/railway)
+PhD Researcher at [University of Birmingham](https://www.birmingham.ac.uk/railway)
 
 ## Recent Publications
 <!-- PUBLICATIONS:START -->
