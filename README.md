@@ -14,7 +14,7 @@ PhD Researcher at [University of Birmingham](https://www.birmingham.ac.uk/railwa
 
 ## Profiles
 - [ORCID](https://orcid.org/0009-0002-9513-2817)
-- [UoB Research Portal](https://research.birmingham.ac.uk/en/persons/jack-devey/)
+- [University of Birmingham Research Portal](https://research.birmingham.ac.uk/en/persons/jack-devey/)
 - [Google Scholar](https://scholar.google.com/citations?user=qlmvj88AAAAJ)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=58752639500)
 - [GitHub](https://github.com/jackdevey/)
